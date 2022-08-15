@@ -30,10 +30,12 @@ cityName = splitter[0]
 countryName = splitter[1]
 countryNameHashTag = "#" + countryName.replace(" ", "")
 cityNameHashtag = "#" + cityName.replace(" ", "")
+countryNameHashTagReplacement = countryNameHashTag
+countryNameHashTagReplace = countryNameHashTagReplacement.replace("'", "").replace("-", "").replace(" ", "")
 cityNameHashtagReplacement = cityNameHashtag
-something = cityNameHashtagReplacement.replace("'", "").replace('-', '').replace(" ")
+cityNameHashtagReplace = cityNameHashtagReplacement.replace("'", "").replace('-', '').replace(" ", "")
 
-tweet = cityName + " - " + countryName + "\n\n" + googleMapLink + "\n\n" + countryNameHashTag + " " + something + " #randomPlaces"
+tweet = cityName + " - " + countryName + "\n\n" + googleMapLink + "\n\n" + countryNameHashTagReplace + " " + cityNameHashtagReplace + " #randomPlaces"
 print(tweet)
 # tweet out the tweet
 tweeter = api.update_status(status=tweet)
