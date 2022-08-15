@@ -4188,10 +4188,10 @@ Jimaguayú,Cuba,Camagüey,3754915
 Arroyo Naranjo,Cuba,La Habana,6956646
 Boyeros,Cuba,La Habana,6956647
 Diez de Octubre,Cuba,La Habana,6956648
-Santa Maria,Cape Verde,Sal,3374218
-Praia,Cape Verde,Praia,3374333
-Mindelo,Cape Verde,São Vicente,3374462
-Cova Figueira,Cape Verde,Santa Catarina do Fogo,3374707
+Santa Maria,Cabo Verde,Sal,3374218
+Praia,Cabo Verde,Praia,3374333
+Mindelo,Cabo Verde,São Vicente,3374462
+Cova Figueira,Cabo Verde,Santa Catarina do Fogo,3374707
 Willemstad,Curacao,N/A,3513090
 Flying Fish Cove,Christmas Island,N/A,2078127
 Protaras,Cyprus,Ammochostos,18918
@@ -4201,106 +4201,106 @@ Limassol,Cyprus,Limassol,146384
 Larnaca,Cyprus,Larnaka,146400
 Kyrenia,Cyprus,Keryneia,146412
 Famagusta,Cyprus,Ammochostos,146617
-Dvůr Králové nad Labem,Czech Republic,Královéhradecký,3061284
-Znojmo,Czech Republic,South Moravian,3061344
-Zlín,Czech Republic,Zlín,3061370
-Žďár nad Sázavou Druhy,Czech Republic,Vysočina,3061692
-Žďár nad Sázavou,Czech Republic,Vysočina,3061695
-Žatec,Czech Republic,Ústecký,3061822
-Vyškov,Czech Republic,South Moravian,3062283
-Vsetín,Czech Republic,Zlín,3062339
-Varnsdorf,Czech Republic,Ústecký,3063375
-Valašské Meziříčí,Czech Republic,Zlín,3063447
-Ústí nad Orlicí,Czech Republic,Pardubický,3063546
-Ústí nad Labem,Czech Republic,Ústecký,3063548
-Uherský Brod,Czech Republic,Zlín,3063736
-Uherské Hradiště,Czech Republic,Zlín,3063739
-Trutnov,Czech Republic,Královéhradecký,3063907
-Třinec,Czech Republic,Moravskoslezský,3064000
-Třebíč,Czech Republic,Vysočina,3064104
-Teplice,Czech Republic,Ústecký,3064288
-Tábor,Czech Republic,Jihočeský,3064379
-Svitavy,Czech Republic,Pardubický,3064454
-Šumperk,Czech Republic,Olomoucký,3064673
-Strakonice,Czech Republic,Jihočeský,3065067
-Starý Bohumín,Czech Republic,Moravskoslezský,3065281
-Sokolov,Czech Republic,Karlovarský,3065617
-Slaný,Czech Republic,Central Bohemia,3065903
-Rožnov pod Radhoštěm,Czech Republic,Zlín,3066651
-Rakovník,Czech Republic,Central Bohemia,3067051
-Prostějov,Czech Republic,Olomoucký,3067421
-Prosek,Czech Republic,Praha,3067433
-Příbram,Czech Republic,Central Bohemia,3067542
-Přerov,Czech Republic,Olomoucký,3067580
-Prague,Czech Republic,Praha,3067696
-Pilsen,Czech Republic,Plzeňský,3068160
-Písek,Czech Republic,Jihočeský,3068293
-Pelhřimov,Czech Republic,Vysočina,3068445
-Pardubice,Czech Republic,Pardubický,3068582
-Otrokovice,Czech Republic,Zlín,3068689
-Otrokovice,Czech Republic,Zlín,3068690
-Ostrov,Czech Republic,Karlovarský,3068766
-Ostrava,Czech Republic,Moravskoslezský,3068799
-Orlová,Czech Republic,Moravskoslezský,3068873
-Opava,Czech Republic,Moravskoslezský,3068927
-Olomouc,Czech Republic,Olomoucký,3069011
-Nový Jičín,Czech Republic,Moravskoslezský,3069305
-Neratovice,Czech Republic,Central Bohemia,3069844
-Náchod,Czech Republic,Královéhradecký,3070122
-Most,Czech Republic,Ústecký,3070291
-Modřany,Czech Republic,Praha,3070420
-Mladá Boleslav,Czech Republic,Central Bohemia,3070544
-Mělník,Czech Republic,Central Bohemia,3070862
-Louny,Czech Republic,Ústecký,3071507
-Litvínov,Czech Republic,Ústecký,3071665
-Litoměřice,Czech Republic,Ústecký,3071677
-Liberec,Czech Republic,Liberecký,3071961
-Libeň,Czech Republic,Praha,3071966
-Letňany,Czech Republic,Praha,3072137
-Kutná Hora,Czech Republic,Central Bohemia,3072463
-Kroměříž,Czech Republic,Zlín,3072649
-Krnov,Czech Republic,Moravskoslezský,3072656
-Kralupy nad Vltavou,Czech Republic,Central Bohemia,3072929
-Kopřivnice,Czech Republic,Moravskoslezský,3073254
-Kolín,Czech Republic,Central Bohemia,3073371
-Klatovy,Czech Republic,Plzeňský,3073660
-Klášterec nad Ohří,Czech Republic,Ústecký,3073668
-Kladno,Czech Republic,Central Bohemia,3073699
-Karviná,Czech Republic,Moravskoslezský,3073789
-Karlovy Vary,Czech Republic,Karlovarský,3073803
-Kadaň,Czech Republic,Ústecký,3074020
-Kadaň,Czech Republic,Ústecký,3074039
-Jirkov,Czech Republic,Ústecký,3074110
-Jindřichův Hradec,Czech Republic,Jihočeský,3074149
-Jihlava,Czech Republic,Vysočina,3074199
-Jičín,Czech Republic,Královéhradecký,3074204
-Jablonec nad Nisou,Czech Republic,Liberecký,3074603
-Hranice,Czech Republic,Olomoucký,3074893
-Hradec Králové,Czech Republic,Královéhradecký,3074967
-Hodonín,Czech Republic,South Moravian,3075654
-Havlíčkův Brod,Czech Republic,Vysočina,3075919
-Havířov,Czech Republic,Moravskoslezský,3075921
-Frýdek-Místek,Czech Republic,Moravskoslezský,3076127
-Děčín,Czech Republic,Ústecký,3077244
-Chrudim,Czech Republic,Pardubický,3077539
-Chomutov,Czech Republic,Ústecký,3077685
-Cheb,Czech Republic,Karlovarský,3077835
-Český Těšín,Czech Republic,Moravskoslezský,3077882
-České Budějovice,Czech Republic,Jihočeský,3077916
-Česká Třebová,Czech Republic,Pardubický,3077920
-Česká Lípa,Czech Republic,Liberecký,3077929
-Bruntál,Czech Republic,Moravskoslezský,3078545
-Brno,Czech Republic,South Moravian,3078610
-Břeclav,Czech Republic,South Moravian,3078773
-Braník,Czech Republic,Praha,3078833
-Brandýs nad Labem-Stará Boleslav,Czech Republic,Central Bohemia,3078837
-Bohumín,Czech Republic,Moravskoslezský,3079129
-Blansko,Czech Republic,South Moravian,3079273
-Bílina Kyselka,Czech Republic,Ústecký,3079346
-Bílina,Czech Republic,Ústecký,3079348
-Beroun,Czech Republic,Central Bohemia,3079467
-Benešov,Czech Republic,Central Bohemia,3079508
-Černý Most,Czech Republic,Praha,6269470
+Dvůr Králové nad Labem,Czechia,Královéhradecký,3061284
+Znojmo,Czechia,South Moravian,3061344
+Zlín,Czechia,Zlín,3061370
+Žďár nad Sázavou Druhy,Czechia,Vysočina,3061692
+Žďár nad Sázavou,Czechia,Vysočina,3061695
+Žatec,Czechia,Ústecký,3061822
+Vyškov,Czechia,South Moravian,3062283
+Vsetín,Czechia,Zlín,3062339
+Varnsdorf,Czechia,Ústecký,3063375
+Valašské Meziříčí,Czechia,Zlín,3063447
+Ústí nad Orlicí,Czechia,Pardubický,3063546
+Ústí nad Labem,Czechia,Ústecký,3063548
+Uherský Brod,Czechia,Zlín,3063736
+Uherské Hradiště,Czechia,Zlín,3063739
+Trutnov,Czechia,Královéhradecký,3063907
+Třinec,Czechia,Moravskoslezský,3064000
+Třebíč,Czechia,Vysočina,3064104
+Teplice,Czechia,Ústecký,3064288
+Tábor,Czechia,Jihočeský,3064379
+Svitavy,Czechia,Pardubický,3064454
+Šumperk,Czechia,Olomoucký,3064673
+Strakonice,Czechia,Jihočeský,3065067
+Starý Bohumín,Czechia,Moravskoslezský,3065281
+Sokolov,Czechia,Karlovarský,3065617
+Slaný,Czechia,Central Bohemia,3065903
+Rožnov pod Radhoštěm,Czechia,Zlín,3066651
+Rakovník,Czechia,Central Bohemia,3067051
+Prostějov,Czechia,Olomoucký,3067421
+Prosek,Czechia,Praha,3067433
+Příbram,Czechia,Central Bohemia,3067542
+Přerov,Czechia,Olomoucký,3067580
+Prague,Czechia,Praha,3067696
+Pilsen,Czechia,Plzeňský,3068160
+Písek,Czechia,Jihočeský,3068293
+Pelhřimov,Czechia,Vysočina,3068445
+Pardubice,Czechia,Pardubický,3068582
+Otrokovice,Czechia,Zlín,3068689
+Otrokovice,Czechia,Zlín,3068690
+Ostrov,Czechia,Karlovarský,3068766
+Ostrava,Czechia,Moravskoslezský,3068799
+Orlová,Czechia,Moravskoslezský,3068873
+Opava,Czechia,Moravskoslezský,3068927
+Olomouc,Czechia,Olomoucký,3069011
+Nový Jičín,Czechia,Moravskoslezský,3069305
+Neratovice,Czechia,Central Bohemia,3069844
+Náchod,Czechia,Královéhradecký,3070122
+Most,Czechia,Ústecký,3070291
+Modřany,Czechia,Praha,3070420
+Mladá Boleslav,Czechia,Central Bohemia,3070544
+Mělník,Czechia,Central Bohemia,3070862
+Louny,Czechia,Ústecký,3071507
+Litvínov,Czechia,Ústecký,3071665
+Litoměřice,Czechia,Ústecký,3071677
+Liberec,Czechia,Liberecký,3071961
+Libeň,Czechia,Praha,3071966
+Letňany,Czechia,Praha,3072137
+Kutná Hora,Czechia,Central Bohemia,3072463
+Kroměříž,Czechia,Zlín,3072649
+Krnov,Czechia,Moravskoslezský,3072656
+Kralupy nad Vltavou,Czechia,Central Bohemia,3072929
+Kopřivnice,Czechia,Moravskoslezský,3073254
+Kolín,Czechia,Central Bohemia,3073371
+Klatovy,Czechia,Plzeňský,3073660
+Klášterec nad Ohří,Czechia,Ústecký,3073668
+Kladno,Czechia,Central Bohemia,3073699
+Karviná,Czechia,Moravskoslezský,3073789
+Karlovy Vary,Czechia,Karlovarský,3073803
+Kadaň,Czechia,Ústecký,3074020
+Kadaň,Czechia,Ústecký,3074039
+Jirkov,Czechia,Ústecký,3074110
+Jindřichův Hradec,Czechia,Jihočeský,3074149
+Jihlava,Czechia,Vysočina,3074199
+Jičín,Czechia,Královéhradecký,3074204
+Jablonec nad Nisou,Czechia,Liberecký,3074603
+Hranice,Czechia,Olomoucký,3074893
+Hradec Králové,Czechia,Královéhradecký,3074967
+Hodonín,Czechia,South Moravian,3075654
+Havlíčkův Brod,Czechia,Vysočina,3075919
+Havířov,Czechia,Moravskoslezský,3075921
+Frýdek-Místek,Czechia,Moravskoslezský,3076127
+Děčín,Czechia,Ústecký,3077244
+Chrudim,Czechia,Pardubický,3077539
+Chomutov,Czechia,Ústecký,3077685
+Cheb,Czechia,Karlovarský,3077835
+Český Těšín,Czechia,Moravskoslezský,3077882
+České Budějovice,Czechia,Jihočeský,3077916
+Česká Třebová,Czechia,Pardubický,3077920
+Česká Lípa,Czechia,Liberecký,3077929
+Bruntál,Czechia,Moravskoslezský,3078545
+Brno,Czechia,South Moravian,3078610
+Břeclav,Czechia,South Moravian,3078773
+Braník,Czechia,Praha,3078833
+Brandýs nad Labem-Stará Boleslav,Czechia,Central Bohemia,3078837
+Bohumín,Czechia,Moravskoslezský,3079129
+Blansko,Czechia,South Moravian,3079273
+Bílina Kyselka,Czechia,Ústecký,3079346
+Bílina,Czechia,Ústecký,3079348
+Beroun,Czechia,Central Bohemia,3079467
+Benešov,Czechia,Central Bohemia,3079508
+Černý Most,Czechia,Praha,6269470
 Zwickau,Germany,Saxony,2803560
 Zweibrücken,Germany,Rheinland-Pfalz,2803620
 Zulpich,Germany,North Rhine-Westphalia,2803723
@@ -18424,9 +18424,9 @@ Al Bāb,Syria,Aleppo,174018
 Ad Dānā,Syria,Idlib,174259
 Ālbū Kamāl,Syria,Deir ez-Zor,174448
 Hajīn,Syria,Deir ez-Zor,174506
-Mbabane,Swaziland,Hhohho,934985
-Manzini,Swaziland,Manzini,934995
-Lobamba,Swaziland,Hhohho,935048
+Mbabane,Eswatini,Hhohho,934985
+Manzini,Eswatini,Manzini,934995
+Lobamba,Eswatini,Hhohho,935048
 Cockburn Town,Turks and Caicos Islands,N/A,3576994
 Fada,Chad,Ennedi-Ouest,244128
 Am Timan,Chad,Salamat,245338
@@ -18822,389 +18822,389 @@ El Alia,Tunisia,Banzart,2473876
 Akouda,Tunisia,Sūsah,2473913
 Douane,Tunisia,Nābul,2581754
 Nuku‘alofa,Tonga,Tongatapu,4032402
-Yüksekova,Turkey,Hakkâri,296173
-Yozgat,Turkey,Yozgat,296562
-Yeşilli,Turkey,Mardin,296832
-Erzin,Turkey,Hatay,296852
-Yerköy,Turkey,Yozgat,296895
-Didim,Turkey,Aydın,297090
-Yatağan,Turkey,Muğla,297564
-Yalvaç,Turkey,Isparta,297789
-Yahyalı,Turkey,Kayseri,297917
-Viranşehir,Turkey,Şanlıurfa,298033
-Varto,Turkey,Muş,298088
-Van,Turkey,Van,298117
-Cimin,Turkey,Erzincan,298230
-Uşak,Turkey,Uşak,298299
-Urla,Turkey,İzmir,298316
-Ürgüp,Turkey,Nevşehir,298326
-Şanlıurfa,Turkey,Şanlıurfa,298333
-Turgutlu,Turkey,Manisa,298806
-Tunceli,Turkey,Tunceli,298846
-Torbalı,Turkey,İzmir,298935
-Tire,Turkey,İzmir,299137
-Tekirova,Turkey,Antalya,299445
-Tavşanlı,Turkey,Kütahya,299545
-Tatvan,Turkey,Bitlis,299582
-Tarsus,Turkey,Mersin,299817
-Talas,Turkey,Kayseri,299900
-Susurluk,Turkey,Balıkesir,300058
-Suruç,Turkey,Şanlıurfa,300075
-Sorgun,Turkey,Yozgat,300352
-Soma,Turkey,Manisa,300371
-Solhan,Turkey,Bingöl,300377
-Söke,Turkey,Aydın,300399
-Siverek,Turkey,Şanlıurfa,300614
-Sivas,Turkey,Sivas,300619
-Şırnak,Turkey,Şırnak,300640
-Simav,Turkey,Kütahya,300791
-Silvan,Turkey,Diyarbakır,300796
-Silopi,Turkey,Şırnak,300797
-Silifke,Turkey,Mersin,300808
-Siirt,Turkey,Siirt,300822
-Seydişehir,Turkey,Konya,301010
-Serinyol,Turkey,Hatay,301089
-Serik,Turkey,Antalya,301101
-Şereflikoçhisar,Turkey,Ankara,301116
-Senirkent,Turkey,Isparta,301172
-Şemdinli,Turkey,Hakkâri,301209
-Selçuk,Turkey,İzmir,301256
-Seferhisar,Turkey,İzmir,301350
-Şarkışla,Turkey,Sivas,301537
-Şarkîkaraağaç,Turkey,Isparta,301539
-Sarayköy,Turkey,Denizli,301827
-Sandıklı,Turkey,Afyonkarahisar,301911
-Salihli,Turkey,Manisa,302043
-Reyhanlı,Turkey,Hatay,302355
-Polatlı,Turkey,Ankara,302525
-Pazarcık,Turkey,Kahramanmaraş,302800
-Patnos,Turkey,Ağrı,302819
-Pasinler,Turkey,Erzurum,302824
-Osmaniye,Turkey,Osmaniye,303195
-Ortaköy,Turkey,Aksaray,303290
-Ortaca,Turkey,Muğla,303354
-Ödemiş,Turkey,İzmir,303700
-Nusaybin,Turkey,Mardin,303750
-Nizip,Turkey,Gaziantep,303798
-Niğde,Turkey,Niğde,303827
-Nevşehir,Turkey,Nevşehir,303831
-Nazilli,Turkey,Aydın,303873
-Mut,Turkey,Mersin,304013
-Muş,Turkey,Muş,304081
-Muğla,Turkey,Muğla,304184
-Mucur,Turkey,Kırşehir,304196
-Milas,Turkey,Muğla,304355
-Midyat,Turkey,Mardin,304382
-Mercin,Turkey,Mersin,304531
-Menemen,Turkey,İzmir,304612
-Marmaris,Turkey,Muğla,304782
-Mardin,Turkey,Mardin,304797
-Manisa,Turkey,Manisa,304827
-Manavgat,Turkey,Antalya,304854
-Malazgirt,Turkey,Muş,304916
-Malatya,Turkey,Malatya,304922
-Mahmutlar,Turkey,Antalya,304964
-Lice,Turkey,Diyarbakır,305089
-Kütahya,Turkey,Kütahya,305268
-Kuşadası,Turkey,Aydın,305359
-Kurtalan,Turkey,Siirt,305532
-Beykonak,Turkey,Antalya,305680
-Kulu,Turkey,Konya,305742
-Kulp,Turkey,Diyarbakır,305750
-Kula,Turkey,Manisa,305810
-Kozluk,Turkey,Batman,306041
-Kozan,Turkey,Adana,306112
-Kovancılar,Turkey,Elazığ,306207
-Korkuteli,Turkey,Antalya,306474
-Konya,Turkey,Konya,306571
-Kızıltepe,Turkey,Mardin,307084
-Serinhisar,Turkey,Denizli,307211
-Kırşehir,Turkey,Kırşehir,307515
-Kırkağaç,Turkey,Manisa,307623
-Kırıkkale,Turkey,Kırıkkale,307654
-Kırıkhan,Turkey,Hatay,307657
-Kilis,Turkey,Kilis,307864
-Keskin,Turkey,Kırıkkale,308024
-Kemer,Turkey,Antalya,308220
-Kemalpaşa,Turkey,İzmir,308224
-Kayseri,Turkey,Kayseri,308464
-Karapınar,Turkey,Konya,309415
-Karaman,Turkey,Karaman,309527
-Ağrı,Turkey,Ağrı,309647
-Karakoçan,Turkey,Elazığ,309663
-Karaçoban,Turkey,Erzurum,310004
-Kaman,Turkey,Kırşehir,310641
-Kâhta,Turkey,Adıyaman,310855
-Kahramanmaraş,Turkey,Kahramanmaraş,310859
-Kadirli,Turkey,Adana,310892
-Kadınhanı,Turkey,Konya,310907
-İzmir,Turkey,İzmir,311046
-Isparta,Turkey,Iğdır,311073
-İdil,Turkey,Şırnak,311704
-Hizan,Turkey,Bitlis,312024
-Hınıs,Turkey,Erzurum,312114
-Hilvan,Turkey,Şanlıurfa,312134
-Hadim,Turkey,Konya,312899
-Hacılar,Turkey,Kayseri,313013
-Güroymak,Turkey,Bitlis,313331
-Gölbaşı,Turkey,Adıyaman,314136
-Göksun,Turkey,Kahramanmaraş,314188
-Genç,Turkey,Bingöl,314648
-Gemerek,Turkey,Sivas,314665
-Gediz,Turkey,Kütahya,314716
-Gazipaşa,Turkey,Antalya,314812
-Gaziantep,Turkey,Gaziantep,314830
-Foça,Turkey,İzmir,314903
-Fethiye,Turkey,Muğla,314967
-Ezine,Turkey,Çanakkale Province,315061
-Eskişehir,Turkey,Eskişehir,315202
-Erzurum,Turkey,Erzurum,315368
-Erzincan,Turkey,Erzincan,315373
-Ermenek,Turkey,Karaman,315401
-Ergani,Turkey,Diyarbakır,315468
-Ereğli,Turkey,Konya,315498
-Erdemli,Turkey,Mersin,315515
-Erciş,Turkey,Van,315530
-Emirdağ,Turkey,Afyonkarahisar,315621
-Emet,Turkey,Kütahya,315639
-Elmalı,Turkey,Antalya,315697
-Elmadağ,Turkey,Ankara,315720
-Eleşkirt,Turkey,Ağrı,315758
-Elbistan,Turkey,Kahramanmaraş,315795
-Elazığ,Turkey,Elazığ,315808
-Eğirdir,Turkey,Isparta,315905
-Edremit,Turkey,Balıkesir,315985
-Dursunbey,Turkey,Balıkesir,316102
-Dörtyol,Turkey,Hatay,316284
-Doğubayazıt,Turkey,Ağrı,316411
-Diyarbakır,Turkey,Diyarbakır,316541
-Diyadin,Turkey,Ağrı,316542
-Dinar,Turkey,Afyonkarahisar,316634
-Develi,Turkey,Kayseri,316795
-Denizli,Turkey,Denizli,317109
-Demirci,Turkey,Manisa,317241
-Dargeçit,Turkey,Mardin,317587
-Darende,Turkey,Malatya,317588
-Çumra,Turkey,Konya,317844
-Menderes,Turkey,İzmir,317851
-Hakkari,Turkey,Hakkâri,318137
-Cizre,Turkey,Şırnak,318253
-Çine,Turkey,Aydın,318372
-Ceylanpınar,Turkey,Şanlıurfa,318668
-Ceyhan,Turkey,Adana,318675
-Çeşme,Turkey,İzmir,318755
-Çermik,Turkey,Diyarbakır,318766
-Çay,Turkey,Afyonkarahisar,319104
-Çağlayancerit,Turkey,Kahramanmaraş,320004
-Burhaniye,Turkey,Balıkesir,320369
-Burdur,Turkey,Burdur,320392
-Bulanık,Turkey,Muş,320448
-Bucak,Turkey,Burdur,320533
-Bozyazı,Turkey,Mersin,320552
-Bozüyük,Turkey,Bilecik,320557
-Bozova,Turkey,Şanlıurfa,320581
-Bor,Turkey,Niğde,320871
-Bolvadin,Turkey,Afyonkarahisar,320879
-Bodrum,Turkey,Muğla,320995
-Bitlis,Turkey,Bitlis,321025
-Bismil,Turkey,Diyarbakır,321031
-Birecik,Turkey,Şanlıurfa,321062
-Bingöl,Turkey,Bingöl,321082
-Bigadiç,Turkey,Balıkesir,321136
-Beyşehir,Turkey,Konya,321191
-Besni,Turkey,Adıyaman,321337
-Bergama,Turkey,İzmir,321426
-Belen,Turkey,Hatay,321572
-Belek,Turkey,Antalya,321580
-Bayındır,Turkey,İzmir,321786
-Batman,Turkey,Batman,321836
-Baskil,Turkey,Elazığ,321929
-Banaz,Turkey,Uşak,322051
-Balıkesir,Turkey,Balıkesir,322165
-Bahçe,Turkey,Adana,322391
-Ayvalık,Turkey,Balıkesir,322673
-Aydın,Turkey,Aydın,322830
-Aşkale,Turkey,Erzurum,323094
-Antalya,Turkey,Antalya,323777
-Antakya,Turkey,Hatay,323779
-Ankara,Turkey,Ankara,323786
-Anamur,Turkey,Mersin,323828
-Aliağa,Turkey,İzmir,324106
-Alaşehir,Turkey,Manisa,324172
-Alanya,Turkey,Antalya,324190
-Akşehir,Turkey,Konya,324490
-Aksaray,Turkey,Aksaray,324496
-Akhisar,Turkey,Manisa,324698
-Akdağmadeni,Turkey,Yozgat,324768
-Akçakale,Turkey,Şanlıurfa,324944
-Ahlat,Turkey,Bitlis,325103
-Afyonkarahisar,Turkey,Afyonkarahisar,325303
-Afşin,Turkey,Kahramanmaraş,325304
-Adıyaman,Turkey,Adıyaman,325330
-Adilcevaz,Turkey,Bitlis,325336
-Adana,Turkey,Adana,325363
-Denizciler,Turkey,Hatay,438400
-Batikent,Turkey,Ankara,442301
-Dalaman,Turkey,Muğla,447273
-Zonguldak,Turkey,Zonguldak,737022
-Zile,Turkey,Tokat,737054
-Zeytinburnu,Turkey,Istanbul,737071
-Yomra,Turkey,Trabzon,737421
-Yenişehir,Turkey,Bursa,737611
-Körfez,Turkey,Kocaeli,737961
-Yalova,Turkey,Yalova,738025
-Yakuplu,Turkey,Istanbul,738064
-Vezirköprü,Turkey,Samsun,738167
-Vakfıkebir,Turkey,Trabzon,738228
-Uzunköprü,Turkey,Edirne,738251
-Üsküdar,Turkey,Istanbul,738329
-Ünye,Turkey,Ordu,738349
-Umraniye,Turkey,Istanbul,738377
-Turhal,Turkey,Tokat,738618
-Trabzon,Turkey,Trabzon,738648
-Tosya,Turkey,Kastamonu,738662
-Tokat,Turkey,Tokat,738743
-Tirebolu,Turkey,Giresun,738753
-Terme,Turkey,Samsun,738803
-Tepecik,Turkey,Istanbul,738858
-Tekkeköy,Turkey,Samsun,738907
-Tekirdağ,Turkey,Tekirdağ,738927
-Taşova,Turkey,Amasya,739015
-Taşköprü,Turkey,Kastamonu,739061
-Suşehri,Turkey,Sivas,739209
-Sürmene,Turkey,Trabzon,739215
-Sungurlu,Turkey,Çorum,739236
-Suluova,Turkey,Amasya,739251
-Şişli,Turkey,Istanbul,739549
-Sinop,Turkey,Sinop,739600
-Silivri,Turkey,Istanbul,739634
-Şebin Karahisar,Turkey,Giresun,739914
-Sarıkamış,Turkey,Kars,740088
-Sapanca,Turkey,Sakarya,740230
-Samsun,Turkey,Samsun,740264
-Safranbolu,Turkey,Karabük,740430
-Rize,Turkey,Rize,740483
-Osmaneli,Turkey,Bilecik,740881
-Osmancık,Turkey,Çorum,740883
-Orhangazi,Turkey,Bursa,741045
-Ordu,Turkey,Ordu,741100
-Oltu,Turkey,Erzurum,741160
-Of,Turkey,Trabzon,741240
-Niksar,Turkey,Tokat,741304
-Nallıhan,Turkey,Ankara,741347
-Mustafakemalpaşa,Turkey,Bursa,741385
-Mudanya,Turkey,Bursa,741487
-Mimarsinan,Turkey,Istanbul,741529
-Merzifon,Turkey,Amasya,741609
-Maltepe,Turkey,Istanbul,741763
-Malkara,Turkey,Tekirdağ,741771
-Lüleburgaz,Turkey,Kırklareli,741855
-Kumru,Turkey,Ordu,742238
-Korgan,Turkey,Ordu,742658
-Kocaali,Turkey,Sakarya,742902
-Kızılcahamam,Turkey,Ankara,743051
-Kırklareli,Turkey,Kırklareli,743166
-Kestel,Turkey,Bursa,743404
-Keşan,Turkey,Edirne,743439
-Kelkit,Turkey,Gümüşhane,743537
-Kazan,Turkey,Ankara,743615
-Kavaklı,Turkey,Istanbul,743818
-Kastamonu,Turkey,Kastamonu,743882
-Kars,Turkey,Kars,743952
-Karasu,Turkey,Sakarya,744093
-Karamürsel,Turkey,Kocaeli,744168
-Karacabey,Turkey,Bursa,744537
-Karabük,Turkey,Karabük,744562
-Kağızman,Turkey,Kars,744873
-İznik,Turkey,Bursa,745026
-İzmit,Turkey,Kocaeli,745028
-İstanbul,Turkey,Istanbul,745044
-İskilip,Turkey,Çorum,745076
-İnegol,Turkey,Bursa,745169
-Horasan,Turkey,Erzurum,745527
-Hopa,Turkey,Artvin,745530
-Hendek,Turkey,Sakarya,745664
-Hayrabolu,Turkey,Tekirdağ,745697
-Havza,Turkey,Samsun,745714
-Gürsu,Turkey,Bursa,746232
-Gürpınar,Turkey,Istanbul,746234
-Gürgentepe,Turkey,Ordu,746252
-Gumushkhane,Turkey,Gümüşhane,746425
-Görele,Turkey,Giresun,746565
-Gönen,Turkey,Balıkesir,746574
-Gölcük,Turkey,Kocaeli,746666
-Giresun,Turkey,Giresun,746881
-Geyve,Turkey,Sakarya,746898
-Gerede,Turkey,Bolu,746940
-Gemlik,Turkey,Bursa,746958
-Gelibolu,Turkey,Çanakkale Province,746983
-Gebze,Turkey,Kocaeli,747014
-Ferizli,Turkey,Sakarya,747135
-Fatsa,Turkey,Ordu,747155
-Esenyurt,Turkey,Istanbul,747323
-Esenler,Turkey,Istanbul,747340
-Ereğli,Turkey,Zonguldak,747471
-Erdek,Turkey,Balıkesir,747482
-Erbaa,Turkey,Tokat,747489
-Eminönü,Turkey,Istanbul,747538
-Edirne,Turkey,Edirne,747712
-Düzce,Turkey,Düzce,747764
-Devrek,Turkey,Zonguldak,748167
-Çubuk,Turkey,Ankara,748870
-Çorum,Turkey,Çorum,748879
-Çorlu,Turkey,Tekirdağ,748893
-Çerkezköy,Turkey,Tekirdağ,749274
-Çerkeş,Turkey,Çankırı,749279
-Çayeli,Turkey,Rize,749502
-Çaycuma,Turkey,Zonguldak,749508
-Çatalca,Turkey,Istanbul,749644
-Çarşamba,Turkey,Samsun,749704
-Khanjarah,Turkey,Çankırı,749748
-Çanakkale,Turkey,Çanakkale Province,749780
-Çan,Turkey,Çanakkale Province,749795
-Bursa,Turkey,Bursa,750269
-Bulancak,Turkey,Giresun,750317
-Boyabat,Turkey,Sinop,750468
-Bolu,Turkey,Bolu,750516
-Bilecik,Turkey,Bilecik,750598
-Biga,Turkey,Çanakkale Province,750605
-Beypazarı,Turkey,Ankara,750637
-Beşikdüzü,Turkey,Trabzon,750735
-Bayburt,Turkey,Bayburt,750938
-Bartın,Turkey,Bartın,751057
-Bandırma,Turkey,Balıkesir,751077
-Bağcılar,Turkey,Istanbul,751324
-Bafra,Turkey,Samsun,751335
-Babaeski,Turkey,Kırklareli,751371
-Artvin,Turkey,Artvin,751817
-Arsin,Turkey,Trabzon,751838
-Arhavi,Turkey,Artvin,751931
-Ardeşen,Turkey,Rize,751949
-Ardahan,Turkey,Ardahan,751952
-Araklı,Turkey,Trabzon,751971
-Amasya,Turkey,Amasya,752015
-Alaplı,Turkey,Zonguldak,752184
-Alaca,Turkey,Çorum,752278
-Akyazı,Turkey,Sakarya,752288
-Akçakoca,Turkey,Düzce,752584
-Akçaabat,Turkey,Trabzon,752627
-Adapazarı,Turkey,Sakarya,752850
-Espiye,Turkey,Giresun,831432
-merter keresteciler,Turkey,Istanbul,6354984
-güngören merter,Turkey,Istanbul,6354985
-Turgutreis,Turkey,Muğla,6620290
-Sarigerme,Turkey,Muğla,6692524
-Ataşehir,Turkey,Istanbul,6947637
-Başakşehir,Turkey,Istanbul,6947639
-Beylikdüzü,Turkey,Istanbul,6947640
-Büyükçekmece,Turkey,Istanbul,6947641
-Çankaya,Turkey,Ankara,6955677
-Bahçelievler,Turkey,Istanbul,7627067
-Sultangazi,Turkey,Istanbul,7628416
-Sultanbeyli,Turkey,Istanbul,7628419
-Sancaktepe,Turkey,Istanbul,7628420
-Karabağlar,Turkey,İzmir,7701384
-Muratpaşa,Turkey,Antalya,8074174
+Yüksekova,Turkiye,Hakkâri,296173
+Yozgat,Turkiye,Yozgat,296562
+Yeşilli,Turkiye,Mardin,296832
+Erzin,Turkiye,Hatay,296852
+Yerköy,Turkiye,Yozgat,296895
+Didim,Turkiye,Aydın,297090
+Yatağan,Turkiye,Muğla,297564
+Yalvaç,Turkiye,Isparta,297789
+Yahyalı,Turkiye,Kayseri,297917
+Viranşehir,Turkiye,Şanlıurfa,298033
+Varto,Turkiye,Muş,298088
+Van,Turkiye,Van,298117
+Cimin,Turkiye,Erzincan,298230
+Uşak,Turkiye,Uşak,298299
+Urla,Turkiye,İzmir,298316
+Ürgüp,Turkiye,Nevşehir,298326
+Şanlıurfa,Turkiye,Şanlıurfa,298333
+Turgutlu,Turkiye,Manisa,298806
+Tunceli,Turkiye,Tunceli,298846
+Torbalı,Turkiye,İzmir,298935
+Tire,Turkiye,İzmir,299137
+Tekirova,Turkiye,Antalya,299445
+Tavşanlı,Turkiye,Kütahya,299545
+Tatvan,Turkiye,Bitlis,299582
+Tarsus,Turkiye,Mersin,299817
+Talas,Turkiye,Kayseri,299900
+Susurluk,Turkiye,Balıkesir,300058
+Suruç,Turkiye,Şanlıurfa,300075
+Sorgun,Turkiye,Yozgat,300352
+Soma,Turkiye,Manisa,300371
+Solhan,Turkiye,Bingöl,300377
+Söke,Turkiye,Aydın,300399
+Siverek,Turkiye,Şanlıurfa,300614
+Sivas,Turkiye,Sivas,300619
+Şırnak,Turkiye,Şırnak,300640
+Simav,Turkiye,Kütahya,300791
+Silvan,Turkiye,Diyarbakır,300796
+Silopi,Turkiye,Şırnak,300797
+Silifke,Turkiye,Mersin,300808
+Siirt,Turkiye,Siirt,300822
+Seydişehir,Turkiye,Konya,301010
+Serinyol,Turkiye,Hatay,301089
+Serik,Turkiye,Antalya,301101
+Şereflikoçhisar,Turkiye,Ankara,301116
+Senirkent,Turkiye,Isparta,301172
+Şemdinli,Turkiye,Hakkâri,301209
+Selçuk,Turkiye,İzmir,301256
+Seferhisar,Turkiye,İzmir,301350
+Şarkışla,Turkiye,Sivas,301537
+Şarkîkaraağaç,Turkiye,Isparta,301539
+Sarayköy,Turkiye,Denizli,301827
+Sandıklı,Turkiye,Afyonkarahisar,301911
+Salihli,Turkiye,Manisa,302043
+Reyhanlı,Turkiye,Hatay,302355
+Polatlı,Turkiye,Ankara,302525
+Pazarcık,Turkiye,Kahramanmaraş,302800
+Patnos,Turkiye,Ağrı,302819
+Pasinler,Turkiye,Erzurum,302824
+Osmaniye,Turkiye,Osmaniye,303195
+Ortaköy,Turkiye,Aksaray,303290
+Ortaca,Turkiye,Muğla,303354
+Ödemiş,Turkiye,İzmir,303700
+Nusaybin,Turkiye,Mardin,303750
+Nizip,Turkiye,Gaziantep,303798
+Niğde,Turkiye,Niğde,303827
+Nevşehir,Turkiye,Nevşehir,303831
+Nazilli,Turkiye,Aydın,303873
+Mut,Turkiye,Mersin,304013
+Muş,Turkiye,Muş,304081
+Muğla,Turkiye,Muğla,304184
+Mucur,Turkiye,Kırşehir,304196
+Milas,Turkiye,Muğla,304355
+Midyat,Turkiye,Mardin,304382
+Mercin,Turkiye,Mersin,304531
+Menemen,Turkiye,İzmir,304612
+Marmaris,Turkiye,Muğla,304782
+Mardin,Turkiye,Mardin,304797
+Manisa,Turkiye,Manisa,304827
+Manavgat,Turkiye,Antalya,304854
+Malazgirt,Turkiye,Muş,304916
+Malatya,Turkiye,Malatya,304922
+Mahmutlar,Turkiye,Antalya,304964
+Lice,Turkiye,Diyarbakır,305089
+Kütahya,Turkiye,Kütahya,305268
+Kuşadası,Turkiye,Aydın,305359
+Kurtalan,Turkiye,Siirt,305532
+Beykonak,Turkiye,Antalya,305680
+Kulu,Turkiye,Konya,305742
+Kulp,Turkiye,Diyarbakır,305750
+Kula,Turkiye,Manisa,305810
+Kozluk,Turkiye,Batman,306041
+Kozan,Turkiye,Adana,306112
+Kovancılar,Turkiye,Elazığ,306207
+Korkuteli,Turkiye,Antalya,306474
+Konya,Turkiye,Konya,306571
+Kızıltepe,Turkiye,Mardin,307084
+Serinhisar,Turkiye,Denizli,307211
+Kırşehir,Turkiye,Kırşehir,307515
+Kırkağaç,Turkiye,Manisa,307623
+Kırıkkale,Turkiye,Kırıkkale,307654
+Kırıkhan,Turkiye,Hatay,307657
+Kilis,Turkiye,Kilis,307864
+Keskin,Turkiye,Kırıkkale,308024
+Kemer,Turkiye,Antalya,308220
+Kemalpaşa,Turkiye,İzmir,308224
+Kayseri,Turkiye,Kayseri,308464
+Karapınar,Turkiye,Konya,309415
+Karaman,Turkiye,Karaman,309527
+Ağrı,Turkiye,Ağrı,309647
+Karakoçan,Turkiye,Elazığ,309663
+Karaçoban,Turkiye,Erzurum,310004
+Kaman,Turkiye,Kırşehir,310641
+Kâhta,Turkiye,Adıyaman,310855
+Kahramanmaraş,Turkiye,Kahramanmaraş,310859
+Kadirli,Turkiye,Adana,310892
+Kadınhanı,Turkiye,Konya,310907
+İzmir,Turkiye,İzmir,311046
+Isparta,Turkiye,Iğdır,311073
+İdil,Turkiye,Şırnak,311704
+Hizan,Turkiye,Bitlis,312024
+Hınıs,Turkiye,Erzurum,312114
+Hilvan,Turkiye,Şanlıurfa,312134
+Hadim,Turkiye,Konya,312899
+Hacılar,Turkiye,Kayseri,313013
+Güroymak,Turkiye,Bitlis,313331
+Gölbaşı,Turkiye,Adıyaman,314136
+Göksun,Turkiye,Kahramanmaraş,314188
+Genç,Turkiye,Bingöl,314648
+Gemerek,Turkiye,Sivas,314665
+Gediz,Turkiye,Kütahya,314716
+Gazipaşa,Turkiye,Antalya,314812
+Gaziantep,Turkiye,Gaziantep,314830
+Foça,Turkiye,İzmir,314903
+Fethiye,Turkiye,Muğla,314967
+Ezine,Turkiye,Çanakkale Province,315061
+Eskişehir,Turkiye,Eskişehir,315202
+Erzurum,Turkiye,Erzurum,315368
+Erzincan,Turkiye,Erzincan,315373
+Ermenek,Turkiye,Karaman,315401
+Ergani,Turkiye,Diyarbakır,315468
+Ereğli,Turkiye,Konya,315498
+Erdemli,Turkiye,Mersin,315515
+Erciş,Turkiye,Van,315530
+Emirdağ,Turkiye,Afyonkarahisar,315621
+Emet,Turkiye,Kütahya,315639
+Elmalı,Turkiye,Antalya,315697
+Elmadağ,Turkiye,Ankara,315720
+Eleşkirt,Turkiye,Ağrı,315758
+Elbistan,Turkiye,Kahramanmaraş,315795
+Elazığ,Turkiye,Elazığ,315808
+Eğirdir,Turkiye,Isparta,315905
+Edremit,Turkiye,Balıkesir,315985
+Dursunbey,Turkiye,Balıkesir,316102
+Dörtyol,Turkiye,Hatay,316284
+Doğubayazıt,Turkiye,Ağrı,316411
+Diyarbakır,Turkiye,Diyarbakır,316541
+Diyadin,Turkiye,Ağrı,316542
+Dinar,Turkiye,Afyonkarahisar,316634
+Develi,Turkiye,Kayseri,316795
+Denizli,Turkiye,Denizli,317109
+Demirci,Turkiye,Manisa,317241
+Dargeçit,Turkiye,Mardin,317587
+Darende,Turkiye,Malatya,317588
+Çumra,Turkiye,Konya,317844
+Menderes,Turkiye,İzmir,317851
+Hakkari,Turkiye,Hakkâri,318137
+Cizre,Turkiye,Şırnak,318253
+Çine,Turkiye,Aydın,318372
+Ceylanpınar,Turkiye,Şanlıurfa,318668
+Ceyhan,Turkiye,Adana,318675
+Çeşme,Turkiye,İzmir,318755
+Çermik,Turkiye,Diyarbakır,318766
+Çay,Turkiye,Afyonkarahisar,319104
+Çağlayancerit,Turkiye,Kahramanmaraş,320004
+Burhaniye,Turkiye,Balıkesir,320369
+Burdur,Turkiye,Burdur,320392
+Bulanık,Turkiye,Muş,320448
+Bucak,Turkiye,Burdur,320533
+Bozyazı,Turkiye,Mersin,320552
+Bozüyük,Turkiye,Bilecik,320557
+Bozova,Turkiye,Şanlıurfa,320581
+Bor,Turkiye,Niğde,320871
+Bolvadin,Turkiye,Afyonkarahisar,320879
+Bodrum,Turkiye,Muğla,320995
+Bitlis,Turkiye,Bitlis,321025
+Bismil,Turkiye,Diyarbakır,321031
+Birecik,Turkiye,Şanlıurfa,321062
+Bingöl,Turkiye,Bingöl,321082
+Bigadiç,Turkiye,Balıkesir,321136
+Beyşehir,Turkiye,Konya,321191
+Besni,Turkiye,Adıyaman,321337
+Bergama,Turkiye,İzmir,321426
+Belen,Turkiye,Hatay,321572
+Belek,Turkiye,Antalya,321580
+Bayındır,Turkiye,İzmir,321786
+Batman,Turkiye,Batman,321836
+Baskil,Turkiye,Elazığ,321929
+Banaz,Turkiye,Uşak,322051
+Balıkesir,Turkiye,Balıkesir,322165
+Bahçe,Turkiye,Adana,322391
+Ayvalık,Turkiye,Balıkesir,322673
+Aydın,Turkiye,Aydın,322830
+Aşkale,Turkiye,Erzurum,323094
+Antalya,Turkiye,Antalya,323777
+Antakya,Turkiye,Hatay,323779
+Ankara,Turkiye,Ankara,323786
+Anamur,Turkiye,Mersin,323828
+Aliağa,Turkiye,İzmir,324106
+Alaşehir,Turkiye,Manisa,324172
+Alanya,Turkiye,Antalya,324190
+Akşehir,Turkiye,Konya,324490
+Aksaray,Turkiye,Aksaray,324496
+Akhisar,Turkiye,Manisa,324698
+Akdağmadeni,Turkiye,Yozgat,324768
+Akçakale,Turkiye,Şanlıurfa,324944
+Ahlat,Turkiye,Bitlis,325103
+Afyonkarahisar,Turkiye,Afyonkarahisar,325303
+Afşin,Turkiye,Kahramanmaraş,325304
+Adıyaman,Turkiye,Adıyaman,325330
+Adilcevaz,Turkiye,Bitlis,325336
+Adana,Turkiye,Adana,325363
+Denizciler,Turkiye,Hatay,438400
+Batikent,Turkiye,Ankara,442301
+Dalaman,Turkiye,Muğla,447273
+Zonguldak,Turkiye,Zonguldak,737022
+Zile,Turkiye,Tokat,737054
+Zeytinburnu,Turkiye,Istanbul,737071
+Yomra,Turkiye,Trabzon,737421
+Yenişehir,Turkiye,Bursa,737611
+Körfez,Turkiye,Kocaeli,737961
+Yalova,Turkiye,Yalova,738025
+Yakuplu,Turkiye,Istanbul,738064
+Vezirköprü,Turkiye,Samsun,738167
+Vakfıkebir,Turkiye,Trabzon,738228
+Uzunköprü,Turkiye,Edirne,738251
+Üsküdar,Turkiye,Istanbul,738329
+Ünye,Turkiye,Ordu,738349
+Umraniye,Turkiye,Istanbul,738377
+Turhal,Turkiye,Tokat,738618
+Trabzon,Turkiye,Trabzon,738648
+Tosya,Turkiye,Kastamonu,738662
+Tokat,Turkiye,Tokat,738743
+Tirebolu,Turkiye,Giresun,738753
+Terme,Turkiye,Samsun,738803
+Tepecik,Turkiye,Istanbul,738858
+Tekkeköy,Turkiye,Samsun,738907
+Tekirdağ,Turkiye,Tekirdağ,738927
+Taşova,Turkiye,Amasya,739015
+Taşköprü,Turkiye,Kastamonu,739061
+Suşehri,Turkiye,Sivas,739209
+Sürmene,Turkiye,Trabzon,739215
+Sungurlu,Turkiye,Çorum,739236
+Suluova,Turkiye,Amasya,739251
+Şişli,Turkiye,Istanbul,739549
+Sinop,Turkiye,Sinop,739600
+Silivri,Turkiye,Istanbul,739634
+Şebin Karahisar,Turkiye,Giresun,739914
+Sarıkamış,Turkiye,Kars,740088
+Sapanca,Turkiye,Sakarya,740230
+Samsun,Turkiye,Samsun,740264
+Safranbolu,Turkiye,Karabük,740430
+Rize,Turkiye,Rize,740483
+Osmaneli,Turkiye,Bilecik,740881
+Osmancık,Turkiye,Çorum,740883
+Orhangazi,Turkiye,Bursa,741045
+Ordu,Turkiye,Ordu,741100
+Oltu,Turkiye,Erzurum,741160
+Of,Turkiye,Trabzon,741240
+Niksar,Turkiye,Tokat,741304
+Nallıhan,Turkiye,Ankara,741347
+Mustafakemalpaşa,Turkiye,Bursa,741385
+Mudanya,Turkiye,Bursa,741487
+Mimarsinan,Turkiye,Istanbul,741529
+Merzifon,Turkiye,Amasya,741609
+Maltepe,Turkiye,Istanbul,741763
+Malkara,Turkiye,Tekirdağ,741771
+Lüleburgaz,Turkiye,Kırklareli,741855
+Kumru,Turkiye,Ordu,742238
+Korgan,Turkiye,Ordu,742658
+Kocaali,Turkiye,Sakarya,742902
+Kızılcahamam,Turkiye,Ankara,743051
+Kırklareli,Turkiye,Kırklareli,743166
+Kestel,Turkiye,Bursa,743404
+Keşan,Turkiye,Edirne,743439
+Kelkit,Turkiye,Gümüşhane,743537
+Kazan,Turkiye,Ankara,743615
+Kavaklı,Turkiye,Istanbul,743818
+Kastamonu,Turkiye,Kastamonu,743882
+Kars,Turkiye,Kars,743952
+Karasu,Turkiye,Sakarya,744093
+Karamürsel,Turkiye,Kocaeli,744168
+Karacabey,Turkiye,Bursa,744537
+Karabük,Turkiye,Karabük,744562
+Kağızman,Turkiye,Kars,744873
+İznik,Turkiye,Bursa,745026
+İzmit,Turkiye,Kocaeli,745028
+İstanbul,Turkiye,Istanbul,745044
+İskilip,Turkiye,Çorum,745076
+İnegol,Turkiye,Bursa,745169
+Horasan,Turkiye,Erzurum,745527
+Hopa,Turkiye,Artvin,745530
+Hendek,Turkiye,Sakarya,745664
+Hayrabolu,Turkiye,Tekirdağ,745697
+Havza,Turkiye,Samsun,745714
+Gürsu,Turkiye,Bursa,746232
+Gürpınar,Turkiye,Istanbul,746234
+Gürgentepe,Turkiye,Ordu,746252
+Gumushkhane,Turkiye,Gümüşhane,746425
+Görele,Turkiye,Giresun,746565
+Gönen,Turkiye,Balıkesir,746574
+Gölcük,Turkiye,Kocaeli,746666
+Giresun,Turkiye,Giresun,746881
+Geyve,Turkiye,Sakarya,746898
+Gerede,Turkiye,Bolu,746940
+Gemlik,Turkiye,Bursa,746958
+Gelibolu,Turkiye,Çanakkale Province,746983
+Gebze,Turkiye,Kocaeli,747014
+Ferizli,Turkiye,Sakarya,747135
+Fatsa,Turkiye,Ordu,747155
+Esenyurt,Turkiye,Istanbul,747323
+Esenler,Turkiye,Istanbul,747340
+Ereğli,Turkiye,Zonguldak,747471
+Erdek,Turkiye,Balıkesir,747482
+Erbaa,Turkiye,Tokat,747489
+Eminönü,Turkiye,Istanbul,747538
+Edirne,Turkiye,Edirne,747712
+Düzce,Turkiye,Düzce,747764
+Devrek,Turkiye,Zonguldak,748167
+Çubuk,Turkiye,Ankara,748870
+Çorum,Turkiye,Çorum,748879
+Çorlu,Turkiye,Tekirdağ,748893
+Çerkezköy,Turkiye,Tekirdağ,749274
+Çerkeş,Turkiye,Çankırı,749279
+Çayeli,Turkiye,Rize,749502
+Çaycuma,Turkiye,Zonguldak,749508
+Çatalca,Turkiye,Istanbul,749644
+Çarşamba,Turkiye,Samsun,749704
+Khanjarah,Turkiye,Çankırı,749748
+Çanakkale,Turkiye,Çanakkale Province,749780
+Çan,Turkiye,Çanakkale Province,749795
+Bursa,Turkiye,Bursa,750269
+Bulancak,Turkiye,Giresun,750317
+Boyabat,Turkiye,Sinop,750468
+Bolu,Turkiye,Bolu,750516
+Bilecik,Turkiye,Bilecik,750598
+Biga,Turkiye,Çanakkale Province,750605
+Beypazarı,Turkiye,Ankara,750637
+Beşikdüzü,Turkiye,Trabzon,750735
+Bayburt,Turkiye,Bayburt,750938
+Bartın,Turkiye,Bartın,751057
+Bandırma,Turkiye,Balıkesir,751077
+Bağcılar,Turkiye,Istanbul,751324
+Bafra,Turkiye,Samsun,751335
+Babaeski,Turkiye,Kırklareli,751371
+Artvin,Turkiye,Artvin,751817
+Arsin,Turkiye,Trabzon,751838
+Arhavi,Turkiye,Artvin,751931
+Ardeşen,Turkiye,Rize,751949
+Ardahan,Turkiye,Ardahan,751952
+Araklı,Turkiye,Trabzon,751971
+Amasya,Turkiye,Amasya,752015
+Alaplı,Turkiye,Zonguldak,752184
+Alaca,Turkiye,Çorum,752278
+Akyazı,Turkiye,Sakarya,752288
+Akçakoca,Turkiye,Düzce,752584
+Akçaabat,Turkiye,Trabzon,752627
+Adapazarı,Turkiye,Sakarya,752850
+Espiye,Turkiye,Giresun,831432
+merter keresteciler,Turkiye,Istanbul,6354984
+güngören merter,Turkiye,Istanbul,6354985
+Turgutreis,Turkiye,Muğla,6620290
+Sarigerme,Turkiye,Muğla,6692524
+Ataşehir,Turkiye,Istanbul,6947637
+Başakşehir,Turkiye,Istanbul,6947639
+Beylikdüzü,Turkiye,Istanbul,6947640
+Büyükçekmece,Turkiye,Istanbul,6947641
+Çankaya,Turkiye,Ankara,6955677
+Bahçelievler,Turkiye,Istanbul,7627067
+Sultangazi,Turkiye,Istanbul,7628416
+Sultanbeyli,Turkiye,Istanbul,7628419
+Sancaktepe,Turkiye,Istanbul,7628420
+Karabağlar,Turkiye,İzmir,7701384
+Muratpaşa,Turkiye,Antalya,8074174
 Tunapuna,Trinidad and Tobago,Tunapuna/Piarco,3573576
 Scarborough,Trinidad and Tobago,Tobago,3573703
 Sangre Grande,Trinidad and Tobago,Sangre Grande,3573732

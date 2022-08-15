@@ -1,19 +1,5 @@
 import random
-import urllib
-import tweepy
-
-
-# api key and secret
-consumer_key = 'CONSUMER_KEY/API_KEY'
-consumer_secret = 'CONSUMER_SECRET/API_SECRET'
-
-# access token and secret
-access_token = 'ACCESS_TOKEN'
-access_token_secret = 'ACCESS_TOKEN_SECRET'
-
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_token, access_token_secret)
-api = tweepy.API(auth)
+import urllib.parse
 
 
 def random_line(placeNames):
@@ -35,5 +21,3 @@ something = cityNameHashtagReplacement.replace("'", "").replace('-', '').replace
 
 tweet = cityName + " - " + countryName + "\n\n" + googleMapLink + "\n\n" + countryNameHashTag + " " + something + " #randomPlaces"
 print(tweet)
-# tweet out the tweet
-tweeter = api.update_status(status=tweet)
