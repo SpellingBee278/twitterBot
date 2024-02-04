@@ -1,5 +1,6 @@
 # twitterBot
 Random Place Names every hour.
+twitter.com/randomplacename
 
 Requirements:
 
