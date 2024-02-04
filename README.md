@@ -10,3 +10,5 @@ An elevated level Twitter developer account.
 Tweepy
 
 A Twitter account to manage the bot account
+
+WARNING: You cannot create Twitter bots without paying $100 per month. As a result of this, Random Place Names bot has stopped functioning.
